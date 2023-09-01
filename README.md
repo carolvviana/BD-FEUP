@@ -1,6 +1,6 @@
 # Projeto de Avaliação
 ## Bases de Dados
-### 1º Semestre, 2022/2023
+### 2º ano, 1º Semestre, 2022/2023
 
 - Membros:
   - Carolina Viana
